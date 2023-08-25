@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avetorzarjr, i am at my 40ish already however love to learn new things, please bear with me
+- 👋 Hi, I’m @avetorzarjr, 
 - 👀 I’m interested in continuous learning
 - 🌱 I’m currently learning Ansible
 - 💞️ I’m looking to collaborate on everything DevOps
